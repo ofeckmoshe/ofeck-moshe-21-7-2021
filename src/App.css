@@ -1,0 +1,21 @@
+html { box-sizing: border-box; }
+html *,
+html *:before,
+html *:after { box-sizing: inherit; }
+
+body {
+  padding-bottom: 2em;
+  margin: 0 auto;
+  color: #161616;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  background-color: currentColor;
+}
+
+.errContainer{
+  height: 20em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
