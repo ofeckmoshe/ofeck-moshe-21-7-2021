@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ofeck-moshe-21-7-2021/static/css/main.a7ef2d5b.chunk.css",
+    "main.js": "/ofeck-moshe-21-7-2021/static/js/main.8cebb2d1.chunk.js",
+    "main.js.map": "/ofeck-moshe-21-7-2021/static/js/main.8cebb2d1.chunk.js.map",
+    "runtime-main.js": "/ofeck-moshe-21-7-2021/static/js/runtime-main.9dea2f03.js",
+    "runtime-main.js.map": "/ofeck-moshe-21-7-2021/static/js/runtime-main.9dea2f03.js.map",
+    "static/js/2.a39e02e6.chunk.js": "/ofeck-moshe-21-7-2021/static/js/2.a39e02e6.chunk.js",
+    "static/js/2.a39e02e6.chunk.js.map": "/ofeck-moshe-21-7-2021/static/js/2.a39e02e6.chunk.js.map",
+    "index.html": "/ofeck-moshe-21-7-2021/index.html",
+    "static/css/main.a7ef2d5b.chunk.css.map": "/ofeck-moshe-21-7-2021/static/css/main.a7ef2d5b.chunk.css.map",
+    "static/js/2.a39e02e6.chunk.js.LICENSE.txt": "/ofeck-moshe-21-7-2021/static/js/2.a39e02e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9dea2f03.js",
+    "static/js/2.a39e02e6.chunk.js",
+    "static/css/main.a7ef2d5b.chunk.css",
+    "static/js/main.8cebb2d1.chunk.js"
+  ]
+}
